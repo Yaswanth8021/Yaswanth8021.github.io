@@ -1,5 +1,5 @@
-# simple-hotel-tourism-site
-This is a simple Hotel and Tourism project built in PHP.
+# simple-hotel-management-system in php
+This is a simple Hotel management site built in PHP.
 
 
 To visit the AdminPanel, go to 'localhost/ht/admin'
