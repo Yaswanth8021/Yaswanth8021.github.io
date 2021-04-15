@@ -18,7 +18,7 @@
             <div class="col-md-3">
             </div>
             <div class="col-md-6">
-              <h3 class="text-center w3-text-white">Hotel & Tourism</h3>
+              <h3 class="text-center w3-text-white">HotelManagement-System</h3>
                 <div id="admin_login" style="margin-top:60px;" class="w3-card-12 w3-padding-large w3-white">
                 <?php
                     if(isset($_POST['login'])){
